@@ -29,3 +29,13 @@
   margin-right: 0;
   margin-top: 80px;
 }
+.logo_place_header{
+  position: absolute;
+  left: 64px;
+  top: 30px;
+  background-image: url(https://github.com/Bababum95/how-to-learn/blob/main/images/logo_place_header.svg); 
+}
+.logo{
+  width: 228;
+  height: 32;
+}
