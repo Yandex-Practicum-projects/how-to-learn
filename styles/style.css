@@ -26,12 +26,13 @@
   z-index: 1;
 }
 .header__title{
-  width: 730px;
+  max-width: 730px;
+  width: 100%;
   line-height: 96px;
   font-size: 102px;
   font-weight: 600;
   text-decoration-color: #000000;
-  margin: 64px 0 0;
+  margin: 0 0 0 64px;
   display: flex;
   align-items:center;
   z-index: 2;
@@ -81,7 +82,7 @@
   justify-content: space-between;
   margin: 0;
 }
-.two-columns__bref{
+.two-columns__brief{
   width: 175px;
   color:#2f80ed;
   line-height: 1.2;
@@ -98,6 +99,9 @@
 }
 .two-columns__paragraph{
   margin: 0 0 30px;
+}
+.two-columns__paragraph:last-child{
+  margin: 0;
 }
 .two-columns__span-accent{
   font-weight: 600;
@@ -146,6 +150,9 @@ list-style: none;
   font-size: 18px;
   font-weight: normal;
   margin: 0 0 20px;
+}
+.table__text:last-of-type {
+  margin: 0;
 }
 .feynman{
   height: 890px;
