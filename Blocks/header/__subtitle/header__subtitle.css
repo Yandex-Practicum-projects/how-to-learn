@@ -6,7 +6,8 @@
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
-    text-decoration-color: #000000;
+    -webkit-text-decoration-color: #000000;
+            text-decoration-color: #000000;
     z-index: 2;
     margin: 0;
   }
