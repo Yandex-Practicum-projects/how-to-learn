@@ -23,3 +23,5 @@ The project follows the BEM methodology for organizing CSS classes.
 ## Conclusion
 
 This educational project allowed me to gain experience with HTML and CSS, as well as practice organizing my code according to the BEM methodology. I also learned how to create a responsive design and incorporate interactive effects. Overall, this project helped me become a better web developer and I am excited to continue learning and improving my skills.
+---
+Thank you for visiting!
