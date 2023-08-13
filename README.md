@@ -18,7 +18,7 @@ The project follows the BEM methodology for organizing CSS classes.
 - Informative content about learning techniques
 - Links to additional resources
 
-## [Link to the **GitHub Pages**](https://Bababum95.github.io/how-to-learn). 
+## [Link to the **GitHub Pages**](https://yandex-practicum-projects.github.io/how-to-learn). 
 
 ## Conclusion
 
